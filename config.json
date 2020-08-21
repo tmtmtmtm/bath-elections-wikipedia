@@ -1,0 +1,14 @@
+{
+  "wikipedia": "https://en.wikipedia.org/wiki/Bath_(UK_Parliament_constituency)",
+  "wikidata": [{
+    "id": "Q1075440",
+    "start": "1918",
+    "end": "9999"
+  }, {
+    "id": "Q56166272",
+    "start": "1801",
+    "end": "1918"
+  }],
+  "combofile": "combo.csv",
+  "new_person_description": "UK election candidate"
+}
