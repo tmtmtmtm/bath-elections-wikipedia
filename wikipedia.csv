@@ -23,7 +23,7 @@ Q390737,Don Foster,Q9624,Liberal Democrats (UK),26651,Q215622,General election 2
 ,Steve Hewett,Q3402978,Christian Party (UK),250,Q215622,General election 2010,6
 ,A.N.ON,Q327591,Independent (politician),69,Q215622,General election 2010,7
 ,Sean Geddis,Q327591,Independent (politician),56,Q215622,General election 2010,8
-,Robert Craig,,,31,Q215622,General election 2010,9
+,Robert Craig,Q98544251,All The South Party,31,Q215622,General election 2010,9
 Q390737,Don Foster,Q9624,Liberal Democrats (UK),20101,Q428598,General election 2005,1
 ,Sian Dawson,Q9626,Conservative Party (UK),15463,Q428598,General election 2005,2
 ,Harriet Ajderian,Q9630,Labour Party (UK),6773,Q428598,General election 2005,3
@@ -178,13 +178,13 @@ Q7793152,Thomas Phinn,Q622441,Liberal Party (UK),1198,Q4345445,General election 
 Q7526062,Arthur Elton,Q108700,Whigs (British political party),1243,Q4345446,General election 1857,1
 Q8019436,William Tite,Q108700,Whigs (British political party),1200,Q4345446,General election 1857,2
 Q20987305,Arthur Edwin Way,Q9626,Conservative Party (UK),1197,Q4345446,General election 1857,3
-Q8019436,William Tite,Q108700,Whigs (British political party),1176,,"By-election, 5 June 1855",1
-,William Whateley,Q2633397,Peelite,1129,,"By-election, 5 June 1855",2
+Q8019436,William Tite,Q108700,Whigs (British political party),1176,Q98544289,"By-election, 5 June 1855",1
+,William Whateley,Q2633397,Peelite,1129,Q98544289,"By-election, 5 June 1855",2
 Q21079180,George Treweeke Scobell,Q108700,Whigs (British political party),1332,Q3943728,General election 1852,1
 Q7793152,Thomas Phinn,Q108700,Whigs (British political party),1290,Q3943728,General election 1852,2
 ,William Whateley,Q2633397,Peelite,1253,Q3943728,General election 1852,3
-Q21079180,George Treweeke Scobell,Q108700,Whigs (British political party),1110,,"By-election, 25 June 1851",1
-,William Sutcliffe,Q9626,Conservative Party (UK),1041,,"By-election, 25 June 1851",2
+Q21079180,George Treweeke Scobell,Q108700,Whigs (British political party),1110,Q98544283,"By-election, 25 June 1851",1
+,William Sutcliffe,Q9626,Conservative Party (UK),1041,Q98544283,"By-election, 25 June 1851",2
 Q333294,Anthony Ashley-Cooper,Q9626,Conservative Party (UK),1278,Q2073198,General election 1847,1
 Q4679173,Adam Haldane-Duncan,Q108700,Whigs (British political party),1228,Q2073198,General election 1847,2
 Q6219504,John Arthur Roebuck,Q1687668,Radicals (UK),1093,Q2073198,General election 1847,3
